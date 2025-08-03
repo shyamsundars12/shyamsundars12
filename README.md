@@ -11,21 +11,6 @@ Backend: Node.js, Express.js, Spring Boot, PHP
 Database: MongoDB, MySQL, Firebase
 Tools & Platforms: Postman, IntelliJ IDEA, Visual Studio Code
 
-🛠️ How to Use
-Clone the Repository:
-bash
-Copy
-Edit
-git clone <repository-url>
-Navigate to the Project Folder:
-bash
-Copy
-Edit
-cd <project-name>
-Follow the specific setup instructions provided in each project directory.
-🤝 Contribution
-Contributions are welcome! If you’d like to improve the code or add new features, feel free to submit a pull request.
-
 📬 Contact
 For any queries or collaboration opportunities, feel free to connect with me.
 
